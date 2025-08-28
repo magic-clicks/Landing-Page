@@ -40,8 +40,8 @@
     display: flex;
     box-sizing: border-box;
     padding-top: 100px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
     justify-content: space-between;
 }
 .one button{
@@ -54,8 +54,7 @@
 
 img {
     display: flex;
-    margin-right:150px;
-    margin-bottom: 50px;
+    padding-bottom: 100px;
 }
 .about {
     font-size: 48px;
